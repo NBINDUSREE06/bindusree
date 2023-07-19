@@ -2,7 +2,7 @@
 *{
     font-family: 'Hind', sans-serif;
 }
- .bannerBgImage {
+ .bannerImage {
     height: 100vh;
     background: url("./images/bannerImage.JPG");
     background-size: cover;
